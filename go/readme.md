@@ -52,6 +52,6 @@ Rules()
 SetRules(rules)
 ```
 
+[Docs](https://intelligentbee.com/2018/02/27/firebase-integration-golang/)
 For more details about this library, see the [GoDoc](http://godoc.org/github.com/cosn/firebase) documentation.
-
 For more details about the Firebase APIs, see the [Firebase official documentation](https://www.firebase.com/docs/).
